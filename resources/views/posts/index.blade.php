@@ -21,3 +21,4 @@
         </div>
     </body>
 </html>
+<a href='/posts/create'>create</a>
